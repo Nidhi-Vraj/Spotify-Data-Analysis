@@ -1,7 +1,6 @@
 # Music Data Visualization
 
 ## Team Name: Symphony
-**Team Member:** Nidhi Vraj Sadhuvala
 
 ## Abstract
 Music is an integral part of human life, influencing emotions and moods across cultures. This project explores the elements that contribute to a song's popularity, analyzing various musical components such as tempo, loudness, valence, speechiness, and explicit content using a dataset of Spotify Top Hits from 2000 to 2019 sourced from Kaggle. The study aims to provide insights that can help aspiring musicians craft popular music by understanding the trends and correlations between these elements.
